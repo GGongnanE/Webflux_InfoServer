@@ -1,5 +1,5 @@
 # Webflux_InfoServer
-since : 22-04-20
+since : 22-04-20  
 Hello Server에서 요청이 들어오면 직업 정보(jobInfo)를 응답한다
 ## Goals : Rest Call With WebFlux (Not MVC)
 Spec : Spring5+, Java 8+, WebFlux, Functional Endpoint
